@@ -1,0 +1,20 @@
+{
+  "name": "ci-cd-assignment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SreeHarsha-Kamisetty/CI-CD-Assignment-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SreeHarsha-Kamisetty/CI-CD-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/SreeHarsha-Kamisetty/CI-CD-Assignment-1#readme"
+}
